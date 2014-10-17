@@ -1,4 +1,5 @@
 mycompany
 =========
 
-This is a repository for my current company
+This is a repository for my current company VUDU
+
